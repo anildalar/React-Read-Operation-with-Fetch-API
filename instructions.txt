@@ -1,0 +1,13 @@
+REACT  CRUD Operations
+
+R = Read OPeration
+
+On which event you want to get the student data ?
+
+1.On Page Load (useEffect is a hook)
+2.On a BUtton CLick
+
+And Every Hook is a function
+Every React Hook start with useSometing
+
+
